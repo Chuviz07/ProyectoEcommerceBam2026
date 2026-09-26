@@ -1,0 +1,65 @@
+// const List<Map<String, dynamic>> recommendedProductsMock = [
+//   {
+//     'id': '1',
+//     'name': 'Camisa Arrow',
+//     'category': 'Black / M',
+//     'price': 150,
+//     'imagePath': 'assets/recomendados/recomendado1.jpg',
+//     'description': 'Camisa cómoda y moderna para uso casual.',
+//     'sizes': ['XS', 'S', 'M', 'L', 'XL'],
+//     'colors': ['black', 'blue', 'grey', 'white'],
+//   },
+//   {
+//     'id': '2',
+//     'name': 'Pantalón Levis',
+//     'category': 'Blue / 32',
+//     'price': 300,
+//     'imagePath': 'assets/recomendados/recomendado2.jpg',
+//     'description': 'Pantalón clásico y resistente.',
+//     'sizes': ['28', '30', '32', '34', '36'],
+//     'colors': ['blue', 'black'],
+//   },
+//   {
+//     'id': '3',
+//     'name': 'Pantalón Levis Azul',
+//     'category': 'Blue / 32',
+//     'price': 400,
+//     'imagePath': 'assets/recomendados/recomendado3.jpg',
+//     'description': 'Pantalón slim y resistente.',
+//     'sizes': ['28', '30', '31','32','33', '34', '36'],
+//     'colors': ['blue', 'black', 'white', 'green'],
+//   },
+// ];
+
+// const List<Map<String, dynamic>> summerProductsMock = [
+//   {
+//     'id': '4',
+//     'name': 'Anteojos de Sol',
+//     'category': 'Gold / L',
+//     'price': 100,
+//     'imagePath': 'assets/verano/sol1.jpg',
+//     'description': 'Anteojos modernos para protegerte del sol.',
+//     'sizes': ['S', 'M', 'L'],
+//     'colors': ['gold', 'black', 'brown'],
+//   },
+//   {
+//     'id': '5',
+//     'name': 'Pantaloneta de Playa',
+//     'category': 'Gold / M',
+//     'price': 100,
+//     'imagePath': 'assets/verano/sol2.jpg',
+//     'description': 'pantaloneta para la playa.',
+//     'sizes': ['XS', 'S', 'M', 'L', 'XL'],
+//     'colors': ['blue', 'black', 'brown'],
+//   },
+//   {
+//     'id': '6',
+//     'name': 'Playera de Playa',
+//     'category': 'Gold / L',
+//     'price': 100,
+//     'imagePath': 'assets/verano/sol3.jpg',
+//     'description': 'Playera de Playa con diseños.',
+//     'sizes': ['S', 'M', 'L', 'XL'],
+//     'colors': ['gold', 'black', 'brown'],
+//   }
+// ];
